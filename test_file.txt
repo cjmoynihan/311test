@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 just a diff test
+=======
+Hello World
+I'm a new file!
+ANY change to a playground file
+
+>>>>>>> 0996a144b1a1d5fa7b19cc83f99cf57a3ab87b27
